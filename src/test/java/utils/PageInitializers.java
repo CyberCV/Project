@@ -1,10 +1,18 @@
 package utils;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.FindBy;
+import org.openqa.selenium.support.PageFactory;
+import pages.*;
 
+
+import utils.CommonMethods;
 
 public class PageInitializers {
-/*
+
+
     public static LoginPage login;
-    public static EmployeeSearchPage employeeSearch;
+    public static EmployeeSearchPage employeeSearch;;
     public static AddEmployeePage addEmployee;
     public static DashboardPage dash;
     public static PersonalDetailsPage personal;
@@ -45,5 +53,5 @@ public class PageInitializers {
 
     }
 
- */
+
 }
